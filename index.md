@@ -1,3 +1,3 @@
-# Bund lige
+# Hallå, bund lige
 ## Underbund
-<marquee>Kan man hedde Gustav kan man bunde!</marquee>
+<marquee>Kan man hedde Teodora kan man bunde!</marquee>
