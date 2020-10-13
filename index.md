@@ -1,5 +1,5 @@
 # Hallå, bund lige
-<a href="bubberteten.html">Bubber</a>
+<a href="Tiers/bubberteten.html">Bubberteten</a>
 ## Underbund
 <marquee>Kan man hedde Teodora kan man bunde!</marquee> <br/>
 ![alt text](StodderTheo.png "Title")  
