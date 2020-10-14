@@ -11,6 +11,7 @@
 ## Den lokale munkeorden
 
 ## Bubbertetten 
+![alt text](Stoddere/StodderPaagaard.png "Sheriffen er i bondebyen") 
 
 ## Sigurds Pilletime
 
