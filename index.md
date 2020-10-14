@@ -14,6 +14,7 @@
 ![alt text](Stoddere/StodderPaagaard.jpg "Sheriffen er i bondebyen") 
 
 ## Sigurds Pilletime
+![alt text](Stoddere/StodderJohannes.png "Cremehobbitten siger fuck")  
 
 ## Drengene på bænken
 
